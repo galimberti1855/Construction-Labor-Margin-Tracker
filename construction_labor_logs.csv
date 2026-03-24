@@ -1,0 +1,801 @@
+Date,Project_ID,Employee_ID,Trade,Regular_Hours,Overtime_Hours,Hourly_Rate
+2026-01-09,PRJ-1011,Emp_36,Plumber,8,1,32
+2026-03-04,PRJ-1000,Emp_46,Heavy Equip Operator,8,2,32
+2026-02-04,PRJ-1010,Emp_27,Plumber,8,1,29
+2026-02-10,PRJ-1008,Emp_29,Heavy Equip Operator,8,4,32
+2026-01-12,PRJ-1006,Emp_18,Electrician,8,0,47
+2026-03-03,PRJ-1002,Emp_49,Plumber,8,0,36
+2026-02-04,PRJ-1004,Emp_45,General Laborer,8,0,39
+2026-03-19,PRJ-1004,Emp_22,Foreman,8,2,50
+2026-01-14,PRJ-1008,Emp_10,Plumber,8,0,39
+2026-01-15,PRJ-1011,Emp_49,Foreman,8,0,37
+2026-02-20,PRJ-1006,Emp_07,Electrician,8,0,41
+2026-02-21,PRJ-1003,Emp_25,Electrician,8,0,54
+2026-01-23,PRJ-1014,Emp_23,Foreman,8,0,35
+2026-01-29,PRJ-1006,Emp_39,Foreman,8,0,51
+2026-01-28,PRJ-1012,Emp_03,General Laborer,8,4,54
+2026-02-26,PRJ-1011,Emp_35,Electrician,8,0,52
+2026-02-13,PRJ-1013,Emp_25,Electrician,8,0,35
+2026-03-03,PRJ-1008,Emp_36,Foreman,8,0,51
+2026-03-03,PRJ-1012,Emp_41,Heavy Equip Operator,8,0,33
+2026-01-03,PRJ-1007,Emp_24,Heavy Equip Operator,8,0,51
+2026-01-09,PRJ-1000,Emp_13,Electrician,8,0,43
+2026-02-13,PRJ-1010,Emp_03,Plumber,8,0,46
+2026-02-01,PRJ-1008,Emp_50,Foreman,8,0,44
+2026-03-03,PRJ-1003,Emp_06,Plumber,8,6,36
+2026-02-08,PRJ-1000,Emp_07,General Laborer,8,0,29
+2026-02-25,PRJ-1000,Emp_18,General Laborer,8,0,26
+2026-01-02,PRJ-1006,Emp_41,Foreman,8,0,29
+2026-01-01,PRJ-1001,Emp_11,Foreman,8,0,45
+2026-02-13,PRJ-1005,Emp_23,Plumber,8,0,47
+2026-03-09,PRJ-1007,Emp_43,Foreman,8,0,51
+2026-01-17,PRJ-1007,Emp_45,Electrician,8,1,29
+2026-03-11,PRJ-1014,Emp_39,Plumber,8,0,40
+2026-01-16,PRJ-1011,Emp_35,Plumber,8,2,51
+2026-03-11,PRJ-1002,Emp_11,General Laborer,8,0,44
+2026-02-28,PRJ-1009,Emp_25,Foreman,8,0,27
+2026-01-19,PRJ-1006,Emp_41,Heavy Equip Operator,8,0,44
+2026-02-02,PRJ-1006,Emp_15,Foreman,8,0,42
+2026-01-01,PRJ-1008,Emp_50,Electrician,8,0,49
+2026-02-19,PRJ-1013,Emp_15,Electrician,8,4,34
+2026-01-07,PRJ-1009,Emp_21,General Laborer,8,0,40
+2026-03-01,PRJ-1000,Emp_18,Electrician,8,0,40
+2026-01-12,PRJ-1010,Emp_14,Heavy Equip Operator,8,0,47
+2026-01-09,PRJ-1002,Emp_46,Foreman,8,0,40
+2026-03-21,PRJ-1007,Emp_14,General Laborer,8,4,46
+2026-02-02,PRJ-1010,Emp_26,General Laborer,8,0,41
+2026-03-13,PRJ-1007,Emp_10,Foreman,8,1,44
+2026-01-25,PRJ-1013,Emp_09,Plumber,8,0,42
+2026-03-07,PRJ-1012,Emp_48,Heavy Equip Operator,8,0,33
+2026-02-02,PRJ-1013,Emp_35,Foreman,8,0,45
+2026-02-17,PRJ-1007,Emp_48,Heavy Equip Operator,8,1,31
+2026-03-08,PRJ-1000,Emp_28,Heavy Equip Operator,8,0,40
+2026-03-17,PRJ-1005,Emp_26,Foreman,8,0,47
+2026-01-22,PRJ-1005,Emp_15,Plumber,8,0,30
+2026-02-20,PRJ-1010,Emp_33,General Laborer,8,4,51
+2026-01-21,PRJ-1011,Emp_06,Electrician,8,0,39
+2026-03-05,PRJ-1011,Emp_08,Plumber,8,4,53
+2026-02-17,PRJ-1002,Emp_41,Plumber,8,0,41
+2026-01-17,PRJ-1013,Emp_44,General Laborer,8,6,53
+2026-02-15,PRJ-1002,Emp_39,Electrician,8,4,52
+2026-02-06,PRJ-1000,Emp_25,General Laborer,8,4,38
+2026-02-22,PRJ-1011,Emp_39,General Laborer,8,0,25
+2026-03-04,PRJ-1006,Emp_34,Foreman,8,0,25
+2026-03-08,PRJ-1008,Emp_36,Electrician,8,0,34
+2026-02-23,PRJ-1007,Emp_44,Electrician,8,0,38
+2026-01-24,PRJ-1014,Emp_44,Heavy Equip Operator,8,0,46
+2026-01-23,PRJ-1010,Emp_49,Foreman,8,0,34
+2026-01-02,PRJ-1007,Emp_50,Foreman,8,0,25
+2026-01-09,PRJ-1006,Emp_08,Foreman,8,1,53
+2026-02-11,PRJ-1002,Emp_28,Plumber,8,2,42
+2026-01-25,PRJ-1011,Emp_30,Electrician,8,0,50
+2026-01-07,PRJ-1012,Emp_47,Foreman,8,0,44
+2026-03-06,PRJ-1013,Emp_33,Plumber,8,0,40
+2026-01-14,PRJ-1006,Emp_33,Electrician,8,4,39
+2026-03-07,PRJ-1014,Emp_41,Foreman,8,0,46
+2026-02-20,PRJ-1014,Emp_41,Heavy Equip Operator,8,0,54
+2026-01-22,PRJ-1005,Emp_39,Plumber,8,0,41
+2026-02-21,PRJ-1014,Emp_10,Foreman,8,0,46
+2026-03-01,PRJ-1007,Emp_49,Plumber,8,0,45
+2026-03-01,PRJ-1004,Emp_35,Heavy Equip Operator,8,0,31
+2026-03-09,PRJ-1003,Emp_01,Heavy Equip Operator,8,2,54
+2026-02-16,PRJ-1007,Emp_21,General Laborer,8,0,44
+2026-01-16,PRJ-1011,Emp_02,Electrician,8,6,34
+2026-01-30,PRJ-1007,Emp_24,Foreman,8,0,43
+2026-02-27,PRJ-1004,Emp_16,Electrician,8,0,50
+2026-03-03,PRJ-1008,Emp_16,Heavy Equip Operator,8,2,36
+2026-01-01,PRJ-1000,Emp_06,Electrician,8,0,39
+2026-02-03,PRJ-1005,Emp_47,General Laborer,8,0,40
+2026-01-01,PRJ-1006,Emp_05,Heavy Equip Operator,8,6,29
+2026-01-22,PRJ-1002,Emp_50,Plumber,8,1,36
+2026-01-26,PRJ-1004,Emp_09,General Laborer,8,0,46
+2026-02-26,PRJ-1011,Emp_36,Plumber,8,0,29
+2026-02-16,PRJ-1013,Emp_17,Heavy Equip Operator,8,0,54
+2026-03-10,PRJ-1009,Emp_39,General Laborer,8,0,50
+2026-02-17,PRJ-1003,Emp_14,Heavy Equip Operator,8,2,25
+2026-01-23,PRJ-1005,Emp_49,Plumber,8,0,29
+2026-02-03,PRJ-1009,Emp_46,Foreman,8,0,50
+2026-01-19,PRJ-1000,Emp_26,Foreman,8,0,48
+2026-03-10,PRJ-1007,Emp_29,Heavy Equip Operator,8,0,40
+2026-01-02,PRJ-1010,Emp_29,Electrician,8,0,44
+2026-01-24,PRJ-1002,Emp_16,Plumber,8,0,52
+2026-02-02,PRJ-1002,Emp_05,Foreman,8,0,35
+2026-01-12,PRJ-1000,Emp_02,Heavy Equip Operator,8,0,32
+2026-03-15,PRJ-1012,Emp_36,Plumber,8,0,37
+2026-01-12,PRJ-1001,Emp_38,Plumber,8,0,53
+2026-02-04,PRJ-1009,Emp_01,Electrician,8,0,32
+2026-01-26,PRJ-1013,Emp_46,Electrician,8,0,26
+2026-01-07,PRJ-1004,Emp_15,Electrician,8,0,42
+2026-03-16,PRJ-1003,Emp_03,Foreman,8,4,49
+2026-01-21,PRJ-1003,Emp_05,Heavy Equip Operator,8,6,34
+2026-03-14,PRJ-1002,Emp_16,Foreman,8,0,41
+2026-02-05,PRJ-1006,Emp_43,General Laborer,8,0,48
+2026-01-23,PRJ-1004,Emp_14,Heavy Equip Operator,8,4,36
+2026-02-24,PRJ-1008,Emp_09,Heavy Equip Operator,8,1,27
+2026-01-30,PRJ-1013,Emp_37,General Laborer,8,4,44
+2026-01-13,PRJ-1000,Emp_16,General Laborer,8,4,28
+2026-01-12,PRJ-1002,Emp_27,Plumber,8,6,36
+2026-01-09,PRJ-1013,Emp_07,Electrician,8,0,44
+2026-01-16,PRJ-1002,Emp_43,General Laborer,8,0,36
+2026-01-25,PRJ-1004,Emp_23,General Laborer,8,0,28
+2026-02-22,PRJ-1008,Emp_27,General Laborer,8,1,31
+2026-02-22,PRJ-1006,Emp_47,Electrician,8,0,38
+2026-01-05,PRJ-1012,Emp_44,Electrician,8,1,35
+2026-03-16,PRJ-1011,Emp_04,General Laborer,8,0,33
+2026-03-15,PRJ-1000,Emp_47,Foreman,8,2,53
+2026-01-07,PRJ-1007,Emp_07,Plumber,8,0,34
+2026-01-09,PRJ-1009,Emp_13,Plumber,8,2,26
+2026-01-05,PRJ-1005,Emp_35,General Laborer,8,0,43
+2026-01-08,PRJ-1000,Emp_09,General Laborer,8,0,46
+2026-01-17,PRJ-1008,Emp_12,Foreman,8,4,37
+2026-01-04,PRJ-1011,Emp_30,Plumber,8,0,43
+2026-03-02,PRJ-1006,Emp_05,General Laborer,8,0,51
+2026-03-15,PRJ-1006,Emp_36,Electrician,8,4,54
+2026-03-08,PRJ-1001,Emp_04,Heavy Equip Operator,8,0,52
+2026-02-27,PRJ-1007,Emp_01,Electrician,8,1,53
+2026-02-08,PRJ-1012,Emp_49,Plumber,8,1,52
+2026-03-03,PRJ-1011,Emp_11,General Laborer,8,0,41
+2026-01-25,PRJ-1005,Emp_32,General Laborer,8,4,45
+2026-01-06,PRJ-1012,Emp_14,General Laborer,8,2,37
+2026-03-02,PRJ-1005,Emp_04,Plumber,8,0,45
+2026-03-16,PRJ-1003,Emp_25,Electrician,8,4,27
+2026-01-19,PRJ-1001,Emp_25,Foreman,8,6,39
+2026-02-18,PRJ-1014,Emp_30,Foreman,8,0,25
+2026-02-23,PRJ-1006,Emp_28,Heavy Equip Operator,8,0,49
+2026-03-16,PRJ-1007,Emp_43,General Laborer,8,0,30
+2026-03-17,PRJ-1004,Emp_10,Plumber,8,0,32
+2026-02-05,PRJ-1009,Emp_19,Plumber,8,0,52
+2026-02-19,PRJ-1004,Emp_04,Heavy Equip Operator,8,0,33
+2026-03-05,PRJ-1014,Emp_48,Heavy Equip Operator,8,0,41
+2026-03-14,PRJ-1003,Emp_04,Foreman,8,0,37
+2026-01-29,PRJ-1002,Emp_04,Electrician,8,0,53
+2026-01-06,PRJ-1004,Emp_38,General Laborer,8,4,39
+2026-01-25,PRJ-1007,Emp_33,Heavy Equip Operator,8,0,54
+2026-01-05,PRJ-1000,Emp_11,Electrician,8,0,46
+2026-03-06,PRJ-1014,Emp_33,Electrician,8,0,41
+2026-01-11,PRJ-1014,Emp_12,Electrician,8,0,49
+2026-02-28,PRJ-1012,Emp_39,Electrician,8,2,25
+2026-01-01,PRJ-1006,Emp_44,Plumber,8,0,30
+2026-03-10,PRJ-1005,Emp_26,Electrician,8,6,27
+2026-02-22,PRJ-1004,Emp_37,Plumber,8,0,29
+2026-03-15,PRJ-1000,Emp_38,Heavy Equip Operator,8,2,45
+2026-03-19,PRJ-1000,Emp_03,Heavy Equip Operator,8,0,43
+2026-02-14,PRJ-1013,Emp_06,General Laborer,8,0,25
+2026-02-01,PRJ-1014,Emp_43,Heavy Equip Operator,8,0,32
+2026-02-08,PRJ-1001,Emp_37,Heavy Equip Operator,8,0,46
+2026-01-03,PRJ-1011,Emp_21,Foreman,8,0,25
+2026-02-23,PRJ-1013,Emp_14,Foreman,8,6,54
+2026-02-26,PRJ-1014,Emp_16,Foreman,8,0,39
+2026-01-23,PRJ-1004,Emp_26,Plumber,8,1,38
+2026-03-07,PRJ-1006,Emp_43,Foreman,8,2,30
+2026-03-05,PRJ-1005,Emp_30,Foreman,8,0,42
+2026-01-30,PRJ-1002,Emp_49,Electrician,8,0,26
+2026-02-21,PRJ-1000,Emp_01,General Laborer,8,0,48
+2026-03-20,PRJ-1006,Emp_40,Heavy Equip Operator,8,0,34
+2026-02-20,PRJ-1012,Emp_07,Electrician,8,0,28
+2026-01-10,PRJ-1009,Emp_35,Plumber,8,4,41
+2026-03-10,PRJ-1004,Emp_33,Foreman,8,6,26
+2026-03-18,PRJ-1010,Emp_09,Foreman,8,0,40
+2026-03-16,PRJ-1008,Emp_05,Plumber,8,0,47
+2026-02-24,PRJ-1010,Emp_24,Foreman,8,0,46
+2026-01-16,PRJ-1007,Emp_11,General Laborer,8,0,28
+2026-02-25,PRJ-1002,Emp_35,Foreman,8,0,51
+2026-02-01,PRJ-1009,Emp_40,Heavy Equip Operator,8,0,43
+2026-01-19,PRJ-1001,Emp_01,Heavy Equip Operator,8,2,52
+2026-02-11,PRJ-1004,Emp_20,Electrician,8,0,30
+2026-01-01,PRJ-1011,Emp_09,Foreman,8,0,50
+2026-02-15,PRJ-1013,Emp_08,Electrician,8,0,50
+2026-02-14,PRJ-1009,Emp_48,Heavy Equip Operator,8,0,49
+2026-02-16,PRJ-1014,Emp_10,Foreman,8,0,48
+2026-03-04,PRJ-1000,Emp_19,Heavy Equip Operator,8,0,50
+2026-02-05,PRJ-1000,Emp_14,Foreman,8,2,27
+2026-02-21,PRJ-1014,Emp_14,Foreman,8,0,48
+2026-01-14,PRJ-1006,Emp_33,General Laborer,8,0,38
+2026-01-02,PRJ-1013,Emp_17,Electrician,8,1,51
+2026-02-25,PRJ-1002,Emp_06,General Laborer,8,0,39
+2026-01-23,PRJ-1014,Emp_18,Electrician,8,0,52
+2026-01-18,PRJ-1002,Emp_01,Foreman,8,0,43
+2026-01-15,PRJ-1006,Emp_50,Plumber,8,0,29
+2026-01-28,PRJ-1008,Emp_41,Foreman,8,0,41
+2026-02-13,PRJ-1012,Emp_11,General Laborer,8,0,44
+2026-01-25,PRJ-1002,Emp_36,General Laborer,8,0,33
+2026-01-18,PRJ-1014,Emp_36,Electrician,8,0,46
+2026-02-03,PRJ-1007,Emp_08,Electrician,8,0,41
+2026-02-11,PRJ-1005,Emp_45,Plumber,8,0,44
+2026-01-26,PRJ-1010,Emp_35,Electrician,8,0,48
+2026-02-28,PRJ-1004,Emp_24,Heavy Equip Operator,8,6,49
+2026-02-02,PRJ-1004,Emp_36,Plumber,8,0,30
+2026-03-11,PRJ-1003,Emp_28,Plumber,8,0,54
+2026-03-16,PRJ-1013,Emp_03,Foreman,8,0,48
+2026-02-24,PRJ-1002,Emp_24,Electrician,8,2,43
+2026-01-31,PRJ-1003,Emp_23,Plumber,8,0,48
+2026-01-06,PRJ-1011,Emp_44,Plumber,8,0,35
+2026-01-04,PRJ-1005,Emp_43,Electrician,8,0,41
+2026-02-20,PRJ-1001,Emp_23,Heavy Equip Operator,8,2,39
+2026-03-16,PRJ-1002,Emp_27,Heavy Equip Operator,8,0,37
+2026-02-13,PRJ-1009,Emp_48,Plumber,8,0,46
+2026-03-09,PRJ-1000,Emp_16,Plumber,8,0,44
+2026-01-12,PRJ-1009,Emp_12,General Laborer,8,0,38
+2026-03-05,PRJ-1013,Emp_02,Plumber,8,0,35
+2026-03-18,PRJ-1000,Emp_48,Foreman,8,0,30
+2026-02-19,PRJ-1004,Emp_27,Plumber,8,0,47
+2026-01-10,PRJ-1012,Emp_18,Plumber,8,6,32
+2026-01-02,PRJ-1014,Emp_45,Electrician,8,0,29
+2026-03-14,PRJ-1010,Emp_25,Electrician,8,1,39
+2026-01-24,PRJ-1002,Emp_31,Plumber,8,0,54
+2026-02-18,PRJ-1011,Emp_13,General Laborer,8,4,36
+2026-02-19,PRJ-1007,Emp_23,Foreman,8,0,35
+2026-01-09,PRJ-1002,Emp_15,Plumber,8,0,27
+2026-01-01,PRJ-1005,Emp_02,Plumber,8,1,52
+2026-03-05,PRJ-1010,Emp_26,Foreman,8,1,33
+2026-01-14,PRJ-1002,Emp_18,Electrician,8,1,45
+2026-02-06,PRJ-1010,Emp_50,Foreman,8,2,38
+2026-01-26,PRJ-1008,Emp_23,Heavy Equip Operator,8,4,37
+2026-02-11,PRJ-1007,Emp_26,Heavy Equip Operator,8,0,32
+2026-02-08,PRJ-1002,Emp_22,Electrician,8,1,53
+2026-02-07,PRJ-1014,Emp_08,Foreman,8,0,39
+2026-01-25,PRJ-1014,Emp_12,Heavy Equip Operator,8,0,47
+2026-03-07,PRJ-1007,Emp_17,Electrician,8,0,32
+2026-02-20,PRJ-1005,Emp_07,Heavy Equip Operator,8,0,30
+2026-03-08,PRJ-1007,Emp_28,Foreman,8,0,34
+2026-03-05,PRJ-1014,Emp_47,Foreman,8,0,53
+2026-02-02,PRJ-1006,Emp_28,Heavy Equip Operator,8,0,51
+2026-02-05,PRJ-1008,Emp_33,Electrician,8,6,25
+2026-01-27,PRJ-1013,Emp_25,Heavy Equip Operator,8,1,28
+2026-03-07,PRJ-1010,Emp_13,Foreman,8,1,34
+2026-02-07,PRJ-1014,Emp_03,General Laborer,8,0,28
+2026-02-21,PRJ-1012,Emp_01,Heavy Equip Operator,8,0,32
+2026-01-05,PRJ-1003,Emp_35,Plumber,8,0,36
+2026-02-14,PRJ-1014,Emp_24,General Laborer,8,1,43
+2026-02-05,PRJ-1010,Emp_05,Foreman,8,0,51
+2026-03-10,PRJ-1013,Emp_40,Foreman,8,2,34
+2026-02-07,PRJ-1006,Emp_43,Electrician,8,0,39
+2026-02-15,PRJ-1009,Emp_47,Foreman,8,0,37
+2026-03-03,PRJ-1000,Emp_33,Foreman,8,0,39
+2026-03-01,PRJ-1011,Emp_43,General Laborer,8,0,28
+2026-03-09,PRJ-1004,Emp_21,General Laborer,8,1,32
+2026-01-31,PRJ-1005,Emp_45,Foreman,8,0,43
+2026-01-29,PRJ-1008,Emp_36,Plumber,8,0,46
+2026-01-11,PRJ-1013,Emp_13,General Laborer,8,0,29
+2026-01-21,PRJ-1003,Emp_43,General Laborer,8,0,46
+2026-02-26,PRJ-1005,Emp_44,Plumber,8,0,47
+2026-02-09,PRJ-1014,Emp_40,Heavy Equip Operator,8,0,33
+2026-02-22,PRJ-1003,Emp_20,General Laborer,8,0,49
+2026-01-26,PRJ-1014,Emp_36,Electrician,8,0,44
+2026-01-25,PRJ-1005,Emp_20,Foreman,8,4,26
+2026-01-07,PRJ-1001,Emp_14,General Laborer,8,0,51
+2026-01-17,PRJ-1010,Emp_38,Heavy Equip Operator,8,0,36
+2026-02-20,PRJ-1008,Emp_42,Foreman,8,0,31
+2026-02-21,PRJ-1007,Emp_30,General Laborer,8,0,25
+2026-02-18,PRJ-1010,Emp_29,Plumber,8,1,46
+2026-01-26,PRJ-1004,Emp_33,General Laborer,8,0,41
+2026-03-12,PRJ-1008,Emp_48,Plumber,8,6,41
+2026-01-20,PRJ-1011,Emp_43,Electrician,8,0,53
+2026-02-18,PRJ-1012,Emp_19,Heavy Equip Operator,8,0,54
+2026-02-20,PRJ-1002,Emp_43,Heavy Equip Operator,8,0,54
+2026-02-01,PRJ-1000,Emp_22,Electrician,8,0,37
+2026-01-30,PRJ-1002,Emp_49,Plumber,8,2,42
+2026-01-01,PRJ-1014,Emp_44,Foreman,8,1,42
+2026-03-07,PRJ-1000,Emp_15,Plumber,8,0,42
+2026-02-07,PRJ-1003,Emp_10,Electrician,8,1,25
+2026-01-08,PRJ-1006,Emp_03,Plumber,8,4,27
+2026-02-01,PRJ-1002,Emp_31,Heavy Equip Operator,8,0,38
+2026-02-03,PRJ-1006,Emp_50,Electrician,8,0,47
+2026-02-01,PRJ-1012,Emp_30,General Laborer,8,1,32
+2026-03-06,PRJ-1002,Emp_41,Heavy Equip Operator,8,0,48
+2026-02-28,PRJ-1007,Emp_13,General Laborer,8,0,46
+2026-03-08,PRJ-1011,Emp_32,General Laborer,8,4,39
+2026-01-08,PRJ-1007,Emp_16,Plumber,8,0,38
+2026-02-01,PRJ-1010,Emp_42,Electrician,8,4,40
+2026-03-09,PRJ-1005,Emp_49,Electrician,8,4,45
+2026-01-14,PRJ-1001,Emp_50,General Laborer,8,0,31
+2026-03-15,PRJ-1006,Emp_15,Plumber,8,0,45
+2026-01-19,PRJ-1002,Emp_45,Heavy Equip Operator,8,0,28
+2026-01-29,PRJ-1001,Emp_30,Electrician,8,0,25
+2026-02-16,PRJ-1010,Emp_36,Plumber,8,0,34
+2026-01-02,PRJ-1006,Emp_08,General Laborer,8,0,36
+2026-01-20,PRJ-1005,Emp_09,General Laborer,8,0,54
+2026-01-09,PRJ-1011,Emp_43,Heavy Equip Operator,8,0,27
+2026-01-24,PRJ-1013,Emp_36,Heavy Equip Operator,8,0,48
+2026-02-28,PRJ-1000,Emp_21,General Laborer,8,4,42
+2026-01-14,PRJ-1001,Emp_40,Heavy Equip Operator,8,1,37
+2026-01-25,PRJ-1005,Emp_28,Heavy Equip Operator,8,0,46
+2026-01-04,PRJ-1012,Emp_29,Plumber,8,0,37
+2026-02-06,PRJ-1001,Emp_48,General Laborer,8,0,45
+2026-02-11,PRJ-1005,Emp_29,Foreman,8,0,26
+2026-01-17,PRJ-1005,Emp_49,Plumber,8,0,50
+2026-03-17,PRJ-1009,Emp_41,Foreman,8,0,46
+2026-01-27,PRJ-1005,Emp_50,Heavy Equip Operator,8,4,51
+2026-02-09,PRJ-1012,Emp_32,Plumber,8,0,49
+2026-02-22,PRJ-1012,Emp_18,General Laborer,8,0,41
+2026-01-26,PRJ-1013,Emp_05,Foreman,8,0,50
+2026-02-15,PRJ-1011,Emp_16,Foreman,8,0,46
+2026-03-06,PRJ-1003,Emp_22,Foreman,8,0,43
+2026-01-26,PRJ-1010,Emp_35,Electrician,8,0,32
+2026-01-11,PRJ-1000,Emp_09,Plumber,8,0,51
+2026-02-08,PRJ-1005,Emp_15,General Laborer,8,0,26
+2026-02-24,PRJ-1005,Emp_45,Plumber,8,0,46
+2026-03-10,PRJ-1009,Emp_46,Plumber,8,0,28
+2026-01-20,PRJ-1003,Emp_05,General Laborer,8,0,35
+2026-03-03,PRJ-1010,Emp_27,Foreman,8,6,26
+2026-03-14,PRJ-1004,Emp_35,General Laborer,8,1,33
+2026-03-14,PRJ-1000,Emp_27,Electrician,8,0,49
+2026-03-02,PRJ-1009,Emp_14,General Laborer,8,0,49
+2026-02-08,PRJ-1001,Emp_25,Heavy Equip Operator,8,0,29
+2026-02-13,PRJ-1005,Emp_45,Electrician,8,6,26
+2026-01-12,PRJ-1011,Emp_49,Heavy Equip Operator,8,0,51
+2026-02-18,PRJ-1009,Emp_25,General Laborer,8,0,49
+2026-02-24,PRJ-1011,Emp_01,Foreman,8,0,54
+2026-03-21,PRJ-1007,Emp_20,General Laborer,8,4,45
+2026-03-21,PRJ-1008,Emp_27,Heavy Equip Operator,8,2,42
+2026-01-12,PRJ-1009,Emp_48,Heavy Equip Operator,8,0,33
+2026-01-26,PRJ-1009,Emp_39,Plumber,8,0,40
+2026-03-12,PRJ-1009,Emp_32,Plumber,8,6,45
+2026-01-07,PRJ-1004,Emp_18,General Laborer,8,0,31
+2026-01-09,PRJ-1007,Emp_32,Electrician,8,0,42
+2026-02-28,PRJ-1001,Emp_25,Foreman,8,4,54
+2026-02-08,PRJ-1010,Emp_43,General Laborer,8,0,34
+2026-01-17,PRJ-1007,Emp_47,Plumber,8,0,27
+2026-03-01,PRJ-1002,Emp_30,Plumber,8,0,29
+2026-02-12,PRJ-1006,Emp_40,Heavy Equip Operator,8,0,47
+2026-02-08,PRJ-1000,Emp_02,General Laborer,8,0,28
+2026-01-25,PRJ-1000,Emp_38,Heavy Equip Operator,8,1,40
+2026-02-11,PRJ-1001,Emp_43,Electrician,8,4,47
+2026-02-11,PRJ-1010,Emp_06,General Laborer,8,6,47
+2026-01-13,PRJ-1002,Emp_09,General Laborer,8,0,51
+2026-02-08,PRJ-1012,Emp_12,Electrician,8,0,54
+2026-03-03,PRJ-1008,Emp_17,General Laborer,8,0,40
+2026-02-25,PRJ-1008,Emp_21,Plumber,8,0,34
+2026-01-30,PRJ-1006,Emp_30,Foreman,8,0,44
+2026-01-05,PRJ-1000,Emp_22,General Laborer,8,1,27
+2026-02-14,PRJ-1013,Emp_18,General Laborer,8,0,42
+2026-03-09,PRJ-1004,Emp_17,Electrician,8,1,49
+2026-02-17,PRJ-1013,Emp_31,Electrician,8,0,39
+2026-03-14,PRJ-1008,Emp_48,Heavy Equip Operator,8,0,48
+2026-03-09,PRJ-1009,Emp_04,Foreman,8,0,29
+2026-03-02,PRJ-1011,Emp_15,Electrician,8,0,30
+2026-02-08,PRJ-1013,Emp_50,Electrician,8,4,48
+2026-01-11,PRJ-1001,Emp_49,Electrician,8,4,49
+2026-03-12,PRJ-1010,Emp_16,Plumber,8,6,32
+2026-01-20,PRJ-1005,Emp_02,Heavy Equip Operator,8,2,45
+2026-03-15,PRJ-1008,Emp_10,Plumber,8,0,50
+2026-02-10,PRJ-1002,Emp_09,General Laborer,8,0,48
+2026-01-06,PRJ-1005,Emp_43,Electrician,8,2,39
+2026-02-18,PRJ-1003,Emp_37,Plumber,8,0,50
+2026-03-02,PRJ-1002,Emp_30,Foreman,8,0,42
+2026-03-03,PRJ-1002,Emp_50,Foreman,8,6,27
+2026-01-13,PRJ-1014,Emp_11,Heavy Equip Operator,8,0,49
+2026-03-14,PRJ-1004,Emp_39,Electrician,8,4,26
+2026-01-11,PRJ-1002,Emp_50,Plumber,8,4,51
+2026-01-29,PRJ-1008,Emp_20,Electrician,8,4,26
+2026-03-17,PRJ-1014,Emp_38,Electrician,8,0,32
+2026-01-25,PRJ-1010,Emp_20,Heavy Equip Operator,8,0,26
+2026-03-20,PRJ-1010,Emp_44,General Laborer,8,0,29
+2026-02-17,PRJ-1005,Emp_26,Plumber,8,0,29
+2026-03-01,PRJ-1011,Emp_05,Heavy Equip Operator,8,0,29
+2026-03-18,PRJ-1007,Emp_45,Plumber,8,4,37
+2026-03-03,PRJ-1009,Emp_07,Foreman,8,0,27
+2026-02-25,PRJ-1007,Emp_44,Heavy Equip Operator,8,0,51
+2026-03-18,PRJ-1005,Emp_08,Heavy Equip Operator,8,0,48
+2026-01-19,PRJ-1011,Emp_03,Foreman,8,4,25
+2026-02-28,PRJ-1008,Emp_35,General Laborer,8,4,37
+2026-02-14,PRJ-1009,Emp_43,Foreman,8,0,28
+2026-03-04,PRJ-1011,Emp_05,Heavy Equip Operator,8,0,31
+2026-01-05,PRJ-1009,Emp_42,Foreman,8,4,49
+2026-01-31,PRJ-1009,Emp_01,General Laborer,8,2,35
+2026-02-22,PRJ-1014,Emp_32,Electrician,8,1,42
+2026-01-02,PRJ-1012,Emp_28,Foreman,8,2,36
+2026-02-08,PRJ-1012,Emp_41,General Laborer,8,0,38
+2026-01-27,PRJ-1000,Emp_46,Plumber,8,6,32
+2026-03-01,PRJ-1012,Emp_28,Plumber,8,0,27
+2026-03-11,PRJ-1006,Emp_47,Heavy Equip Operator,8,0,34
+2026-03-04,PRJ-1014,Emp_42,Foreman,8,0,54
+2026-02-06,PRJ-1003,Emp_40,Heavy Equip Operator,8,0,44
+2026-03-09,PRJ-1000,Emp_50,General Laborer,8,0,36
+2026-01-22,PRJ-1005,Emp_30,General Laborer,8,1,25
+2026-01-22,PRJ-1010,Emp_47,Heavy Equip Operator,8,0,42
+2026-02-19,PRJ-1014,Emp_18,Foreman,8,6,53
+2026-03-17,PRJ-1002,Emp_16,Electrician,8,1,44
+2026-03-17,PRJ-1010,Emp_18,General Laborer,8,0,25
+2026-01-06,PRJ-1002,Emp_16,General Laborer,8,0,35
+2026-02-27,PRJ-1001,Emp_37,Heavy Equip Operator,8,0,38
+2026-01-29,PRJ-1002,Emp_43,General Laborer,8,4,37
+2026-02-08,PRJ-1012,Emp_22,Electrician,8,0,53
+2026-03-16,PRJ-1001,Emp_32,Foreman,8,0,39
+2026-03-19,PRJ-1010,Emp_12,General Laborer,8,0,51
+2026-03-08,PRJ-1011,Emp_14,Foreman,8,6,48
+2026-01-21,PRJ-1004,Emp_17,Foreman,8,4,51
+2026-01-06,PRJ-1004,Emp_18,Heavy Equip Operator,8,1,27
+2026-01-01,PRJ-1005,Emp_45,Foreman,8,0,39
+2026-02-03,PRJ-1000,Emp_36,Electrician,8,0,49
+2026-01-24,PRJ-1014,Emp_34,Plumber,8,0,36
+2026-03-21,PRJ-1011,Emp_06,Plumber,8,0,38
+2026-01-17,PRJ-1007,Emp_47,General Laborer,8,0,39
+2026-01-27,PRJ-1003,Emp_32,Heavy Equip Operator,8,2,31
+2026-01-03,PRJ-1011,Emp_49,Plumber,8,1,45
+2026-01-24,PRJ-1002,Emp_45,General Laborer,8,4,44
+2026-02-15,PRJ-1013,Emp_42,General Laborer,8,0,38
+2026-03-12,PRJ-1011,Emp_29,Electrician,8,0,44
+2026-01-09,PRJ-1008,Emp_06,Foreman,8,0,52
+2026-03-04,PRJ-1004,Emp_15,General Laborer,8,0,45
+2026-01-02,PRJ-1010,Emp_45,Plumber,8,1,37
+2026-03-13,PRJ-1013,Emp_20,Heavy Equip Operator,8,0,42
+2026-02-07,PRJ-1012,Emp_24,General Laborer,8,0,49
+2026-02-02,PRJ-1008,Emp_36,Heavy Equip Operator,8,6,32
+2026-01-11,PRJ-1007,Emp_23,General Laborer,8,0,33
+2026-01-17,PRJ-1013,Emp_48,Heavy Equip Operator,8,0,39
+2026-03-21,PRJ-1011,Emp_22,Foreman,8,0,44
+2026-02-02,PRJ-1001,Emp_45,General Laborer,8,0,52
+2026-01-02,PRJ-1008,Emp_18,Foreman,8,0,37
+2026-01-30,PRJ-1003,Emp_17,Plumber,8,0,50
+2026-01-22,PRJ-1005,Emp_08,Plumber,8,0,31
+2026-02-15,PRJ-1014,Emp_21,Electrician,8,0,26
+2026-02-13,PRJ-1010,Emp_48,Heavy Equip Operator,8,0,53
+2026-03-08,PRJ-1008,Emp_49,Plumber,8,4,30
+2026-03-14,PRJ-1008,Emp_13,Plumber,8,0,42
+2026-03-17,PRJ-1001,Emp_48,General Laborer,8,4,52
+2026-03-03,PRJ-1014,Emp_18,Heavy Equip Operator,8,1,51
+2026-01-07,PRJ-1003,Emp_49,Heavy Equip Operator,8,0,30
+2026-02-27,PRJ-1014,Emp_39,Foreman,8,1,27
+2026-02-10,PRJ-1013,Emp_07,Plumber,8,0,35
+2026-01-12,PRJ-1012,Emp_19,Plumber,8,0,49
+2026-02-14,PRJ-1002,Emp_24,Plumber,8,0,47
+2026-02-14,PRJ-1006,Emp_20,Electrician,8,0,45
+2026-02-24,PRJ-1011,Emp_46,Heavy Equip Operator,8,0,42
+2026-03-11,PRJ-1005,Emp_09,Foreman,8,1,29
+2026-02-25,PRJ-1002,Emp_03,Electrician,8,6,52
+2026-03-15,PRJ-1012,Emp_36,Foreman,8,0,53
+2026-02-23,PRJ-1000,Emp_45,Plumber,8,0,31
+2026-03-17,PRJ-1004,Emp_41,General Laborer,8,0,50
+2026-03-02,PRJ-1004,Emp_07,Electrician,8,2,28
+2026-01-20,PRJ-1001,Emp_37,Foreman,8,0,41
+2026-02-20,PRJ-1003,Emp_31,General Laborer,8,0,50
+2026-03-07,PRJ-1003,Emp_29,Foreman,8,0,30
+2026-02-08,PRJ-1002,Emp_12,Electrician,8,0,50
+2026-01-12,PRJ-1001,Emp_17,General Laborer,8,0,32
+2026-01-21,PRJ-1002,Emp_08,Electrician,8,1,50
+2026-01-08,PRJ-1013,Emp_26,General Laborer,8,0,47
+2026-02-11,PRJ-1013,Emp_05,Heavy Equip Operator,8,0,26
+2026-02-06,PRJ-1012,Emp_41,Electrician,8,4,33
+2026-03-03,PRJ-1012,Emp_10,Plumber,8,0,39
+2026-01-14,PRJ-1008,Emp_37,Foreman,8,0,44
+2026-01-02,PRJ-1000,Emp_06,Plumber,8,0,51
+2026-01-28,PRJ-1004,Emp_08,Heavy Equip Operator,8,0,29
+2026-03-06,PRJ-1007,Emp_49,General Laborer,8,1,28
+2026-02-14,PRJ-1014,Emp_39,Heavy Equip Operator,8,0,35
+2026-01-10,PRJ-1013,Emp_40,Plumber,8,0,40
+2026-03-15,PRJ-1011,Emp_50,Heavy Equip Operator,8,0,54
+2026-01-01,PRJ-1007,Emp_25,General Laborer,8,0,35
+2026-03-17,PRJ-1005,Emp_29,Foreman,8,1,44
+2026-01-28,PRJ-1004,Emp_38,General Laborer,8,0,39
+2026-03-17,PRJ-1000,Emp_20,Heavy Equip Operator,8,0,48
+2026-02-13,PRJ-1014,Emp_40,Electrician,8,0,39
+2026-01-06,PRJ-1012,Emp_40,Electrician,8,0,44
+2026-03-19,PRJ-1014,Emp_49,Plumber,8,0,29
+2026-01-20,PRJ-1000,Emp_41,Plumber,8,0,47
+2026-02-04,PRJ-1004,Emp_17,Electrician,8,0,51
+2026-03-10,PRJ-1002,Emp_11,Plumber,8,0,38
+2026-01-12,PRJ-1004,Emp_12,Heavy Equip Operator,8,0,42
+2026-02-12,PRJ-1008,Emp_05,Plumber,8,0,42
+2026-01-29,PRJ-1014,Emp_01,General Laborer,8,4,48
+2026-02-12,PRJ-1011,Emp_29,Heavy Equip Operator,8,0,30
+2026-01-23,PRJ-1012,Emp_31,Foreman,8,0,44
+2026-03-21,PRJ-1011,Emp_03,Plumber,8,4,47
+2026-01-08,PRJ-1000,Emp_19,Foreman,8,6,47
+2026-01-08,PRJ-1005,Emp_45,General Laborer,8,0,29
+2026-02-16,PRJ-1006,Emp_05,Plumber,8,0,47
+2026-02-12,PRJ-1001,Emp_17,Heavy Equip Operator,8,0,42
+2026-01-17,PRJ-1014,Emp_43,Plumber,8,2,32
+2026-03-17,PRJ-1008,Emp_28,Electrician,8,0,38
+2026-03-09,PRJ-1002,Emp_35,Plumber,8,0,40
+2026-01-14,PRJ-1004,Emp_42,Plumber,8,0,33
+2026-03-03,PRJ-1001,Emp_18,Plumber,8,0,30
+2026-03-04,PRJ-1008,Emp_05,Electrician,8,6,49
+2026-02-17,PRJ-1004,Emp_11,Foreman,8,1,37
+2026-01-31,PRJ-1003,Emp_39,Heavy Equip Operator,8,1,26
+2026-01-04,PRJ-1005,Emp_19,General Laborer,8,0,26
+2026-01-13,PRJ-1002,Emp_08,General Laborer,8,1,37
+2026-03-16,PRJ-1013,Emp_45,Foreman,8,0,46
+2026-03-12,PRJ-1014,Emp_45,General Laborer,8,0,25
+2026-03-17,PRJ-1014,Emp_18,Heavy Equip Operator,8,0,45
+2026-01-19,PRJ-1008,Emp_35,General Laborer,8,0,25
+2026-02-18,PRJ-1002,Emp_29,Electrician,8,0,36
+2026-01-11,PRJ-1013,Emp_39,Electrician,8,0,38
+2026-03-15,PRJ-1008,Emp_28,Foreman,8,1,27
+2026-01-26,PRJ-1001,Emp_39,Foreman,8,6,30
+2026-01-28,PRJ-1009,Emp_02,Electrician,8,0,49
+2026-01-12,PRJ-1004,Emp_15,Heavy Equip Operator,8,0,39
+2026-02-13,PRJ-1010,Emp_38,Electrician,8,0,40
+2026-03-11,PRJ-1011,Emp_49,Foreman,8,1,51
+2026-02-12,PRJ-1006,Emp_37,Electrician,8,0,35
+2026-03-21,PRJ-1011,Emp_49,Plumber,8,0,39
+2026-01-25,PRJ-1002,Emp_31,Heavy Equip Operator,8,0,39
+2026-03-09,PRJ-1005,Emp_42,General Laborer,8,4,43
+2026-02-03,PRJ-1003,Emp_18,Plumber,8,0,40
+2026-02-21,PRJ-1012,Emp_38,General Laborer,8,0,39
+2026-01-28,PRJ-1009,Emp_41,General Laborer,8,0,28
+2026-01-30,PRJ-1000,Emp_06,General Laborer,8,1,37
+2026-01-04,PRJ-1013,Emp_23,General Laborer,8,2,35
+2026-01-07,PRJ-1009,Emp_22,Foreman,8,0,31
+2026-01-13,PRJ-1014,Emp_43,Electrician,8,0,48
+2026-02-11,PRJ-1007,Emp_11,Foreman,8,0,28
+2026-03-09,PRJ-1005,Emp_27,General Laborer,8,0,25
+2026-02-13,PRJ-1009,Emp_19,General Laborer,8,0,39
+2026-01-13,PRJ-1005,Emp_49,Heavy Equip Operator,8,0,45
+2026-01-09,PRJ-1014,Emp_03,General Laborer,8,1,34
+2026-02-11,PRJ-1000,Emp_06,Foreman,8,4,50
+2026-02-06,PRJ-1007,Emp_17,Foreman,8,0,43
+2026-03-01,PRJ-1008,Emp_08,General Laborer,8,0,42
+2026-01-19,PRJ-1000,Emp_33,Electrician,8,0,47
+2026-03-10,PRJ-1002,Emp_43,Heavy Equip Operator,8,0,36
+2026-02-02,PRJ-1000,Emp_30,General Laborer,8,0,46
+2026-02-17,PRJ-1002,Emp_04,Plumber,8,0,52
+2026-03-12,PRJ-1009,Emp_34,Foreman,8,0,33
+2026-03-19,PRJ-1008,Emp_40,General Laborer,8,0,54
+2026-01-25,PRJ-1002,Emp_41,General Laborer,8,6,31
+2026-01-18,PRJ-1005,Emp_49,Electrician,8,0,53
+2026-02-08,PRJ-1010,Emp_14,Foreman,8,1,31
+2026-01-24,PRJ-1002,Emp_36,Plumber,8,0,28
+2026-02-11,PRJ-1012,Emp_19,General Laborer,8,4,38
+2026-02-05,PRJ-1000,Emp_45,General Laborer,8,0,28
+2026-01-03,PRJ-1000,Emp_08,Electrician,8,0,51
+2026-03-11,PRJ-1003,Emp_41,Heavy Equip Operator,8,0,37
+2026-02-18,PRJ-1011,Emp_16,Plumber,8,2,29
+2026-02-13,PRJ-1004,Emp_20,Heavy Equip Operator,8,0,32
+2026-03-13,PRJ-1005,Emp_01,Heavy Equip Operator,8,0,36
+2026-02-27,PRJ-1005,Emp_27,Electrician,8,0,26
+2026-02-13,PRJ-1000,Emp_15,Electrician,8,0,27
+2026-01-30,PRJ-1005,Emp_30,Electrician,8,0,36
+2026-02-27,PRJ-1012,Emp_42,Plumber,8,6,53
+2026-01-31,PRJ-1006,Emp_32,Foreman,8,1,40
+2026-03-03,PRJ-1006,Emp_33,Foreman,8,0,40
+2026-01-12,PRJ-1011,Emp_27,General Laborer,8,0,32
+2026-01-03,PRJ-1012,Emp_31,Plumber,8,4,47
+2026-01-05,PRJ-1007,Emp_30,Heavy Equip Operator,8,1,36
+2026-03-06,PRJ-1004,Emp_10,General Laborer,8,2,44
+2026-03-11,PRJ-1007,Emp_13,Heavy Equip Operator,8,0,31
+2026-02-01,PRJ-1011,Emp_33,Plumber,8,0,30
+2026-01-14,PRJ-1006,Emp_05,Foreman,8,0,42
+2026-03-07,PRJ-1001,Emp_50,General Laborer,8,0,51
+2026-03-14,PRJ-1002,Emp_22,Heavy Equip Operator,8,0,44
+2026-03-03,PRJ-1003,Emp_18,Electrician,8,0,42
+2026-02-24,PRJ-1005,Emp_19,Foreman,8,0,35
+2026-01-15,PRJ-1004,Emp_38,Heavy Equip Operator,8,6,44
+2026-01-12,PRJ-1009,Emp_43,General Laborer,8,4,30
+2026-02-14,PRJ-1007,Emp_10,General Laborer,8,0,34
+2026-01-30,PRJ-1002,Emp_35,General Laborer,8,1,40
+2026-01-07,PRJ-1008,Emp_23,Foreman,8,0,39
+2026-01-21,PRJ-1010,Emp_36,Heavy Equip Operator,8,0,26
+2026-02-04,PRJ-1003,Emp_25,General Laborer,8,0,42
+2026-01-10,PRJ-1008,Emp_21,Plumber,8,2,53
+2026-02-23,PRJ-1014,Emp_45,Plumber,8,0,38
+2026-03-06,PRJ-1005,Emp_37,General Laborer,8,0,38
+2026-02-21,PRJ-1008,Emp_15,General Laborer,8,0,30
+2026-01-25,PRJ-1001,Emp_03,Foreman,8,0,32
+2026-01-21,PRJ-1008,Emp_48,General Laborer,8,0,39
+2026-03-09,PRJ-1011,Emp_46,General Laborer,8,0,52
+2026-01-13,PRJ-1003,Emp_25,Plumber,8,4,42
+2026-03-01,PRJ-1012,Emp_32,Electrician,8,4,35
+2026-01-02,PRJ-1002,Emp_09,Heavy Equip Operator,8,0,43
+2026-01-05,PRJ-1009,Emp_38,Foreman,8,1,49
+2026-01-02,PRJ-1001,Emp_07,General Laborer,8,0,53
+2026-01-31,PRJ-1008,Emp_07,Heavy Equip Operator,8,0,47
+2026-01-09,PRJ-1008,Emp_30,Electrician,8,0,52
+2026-03-03,PRJ-1006,Emp_47,Plumber,8,0,40
+2026-01-16,PRJ-1003,Emp_27,Plumber,8,0,28
+2026-02-09,PRJ-1006,Emp_05,General Laborer,8,2,52
+2026-02-21,PRJ-1003,Emp_17,Foreman,8,0,52
+2026-02-07,PRJ-1014,Emp_40,General Laborer,8,0,29
+2026-03-04,PRJ-1012,Emp_42,Electrician,8,0,27
+2026-01-07,PRJ-1005,Emp_22,Heavy Equip Operator,8,0,38
+2026-03-12,PRJ-1005,Emp_25,Foreman,8,1,29
+2026-02-24,PRJ-1010,Emp_41,General Laborer,8,0,45
+2026-03-20,PRJ-1006,Emp_35,Electrician,8,0,50
+2026-02-08,PRJ-1012,Emp_40,Electrician,8,0,45
+2026-02-22,PRJ-1012,Emp_16,Foreman,8,2,28
+2026-03-01,PRJ-1004,Emp_15,Electrician,8,0,44
+2026-02-24,PRJ-1013,Emp_28,Electrician,8,0,28
+2026-02-03,PRJ-1011,Emp_49,Electrician,8,0,42
+2026-02-21,PRJ-1009,Emp_29,Plumber,8,4,45
+2026-02-11,PRJ-1008,Emp_45,Foreman,8,4,41
+2026-01-09,PRJ-1001,Emp_02,Electrician,8,4,52
+2026-02-17,PRJ-1009,Emp_21,Electrician,8,0,42
+2026-02-27,PRJ-1007,Emp_19,Foreman,8,0,45
+2026-01-28,PRJ-1001,Emp_24,General Laborer,8,0,32
+2026-02-28,PRJ-1000,Emp_10,Plumber,8,0,39
+2026-01-17,PRJ-1007,Emp_34,General Laborer,8,0,37
+2026-03-10,PRJ-1000,Emp_37,Plumber,8,1,47
+2026-01-08,PRJ-1008,Emp_11,Plumber,8,0,47
+2026-02-12,PRJ-1002,Emp_06,Heavy Equip Operator,8,0,48
+2026-01-24,PRJ-1003,Emp_25,Heavy Equip Operator,8,0,45
+2026-02-27,PRJ-1003,Emp_44,Plumber,8,0,35
+2026-02-21,PRJ-1006,Emp_32,Heavy Equip Operator,8,1,43
+2026-01-28,PRJ-1009,Emp_10,Plumber,8,0,29
+2026-01-05,PRJ-1007,Emp_30,Foreman,8,0,34
+2026-02-07,PRJ-1011,Emp_30,Foreman,8,0,41
+2026-01-08,PRJ-1008,Emp_43,Electrician,8,1,33
+2026-03-07,PRJ-1002,Emp_30,Foreman,8,0,41
+2026-02-05,PRJ-1013,Emp_44,Heavy Equip Operator,8,0,33
+2026-02-10,PRJ-1006,Emp_11,Electrician,8,6,54
+2026-01-10,PRJ-1011,Emp_29,Foreman,8,1,51
+2026-01-02,PRJ-1004,Emp_38,Foreman,8,0,40
+2026-02-01,PRJ-1001,Emp_41,General Laborer,8,0,35
+2026-01-10,PRJ-1007,Emp_45,Foreman,8,0,42
+2026-02-24,PRJ-1007,Emp_30,Foreman,8,0,51
+2026-03-19,PRJ-1008,Emp_13,General Laborer,8,0,42
+2026-01-22,PRJ-1003,Emp_31,Electrician,8,0,45
+2026-02-13,PRJ-1013,Emp_16,General Laborer,8,0,41
+2026-01-21,PRJ-1013,Emp_37,Foreman,8,0,47
+2026-02-08,PRJ-1008,Emp_37,Foreman,8,2,39
+2026-01-18,PRJ-1013,Emp_45,Foreman,8,0,45
+2026-01-08,PRJ-1013,Emp_02,General Laborer,8,1,31
+2026-01-23,PRJ-1010,Emp_18,Electrician,8,0,46
+2026-01-22,PRJ-1005,Emp_37,Electrician,8,6,52
+2026-01-29,PRJ-1001,Emp_39,General Laborer,8,1,53
+2026-03-20,PRJ-1001,Emp_19,Plumber,8,0,39
+2026-01-23,PRJ-1012,Emp_39,Foreman,8,2,46
+2026-02-12,PRJ-1000,Emp_15,Plumber,8,1,48
+2026-01-03,PRJ-1002,Emp_40,Foreman,8,0,47
+2026-01-29,PRJ-1011,Emp_44,Plumber,8,0,39
+2026-01-25,PRJ-1014,Emp_41,Electrician,8,1,32
+2026-02-27,PRJ-1000,Emp_41,Electrician,8,0,36
+2026-01-05,PRJ-1003,Emp_20,General Laborer,8,4,32
+2026-03-05,PRJ-1010,Emp_03,Heavy Equip Operator,8,2,49
+2026-01-10,PRJ-1013,Emp_24,Plumber,8,1,31
+2026-01-27,PRJ-1012,Emp_06,Foreman,8,0,33
+2026-02-05,PRJ-1009,Emp_21,General Laborer,8,0,50
+2026-02-23,PRJ-1013,Emp_12,Plumber,8,2,38
+2026-02-03,PRJ-1003,Emp_09,Heavy Equip Operator,8,1,35
+2026-01-16,PRJ-1006,Emp_24,Heavy Equip Operator,8,0,30
+2026-02-25,PRJ-1009,Emp_33,Foreman,8,0,28
+2026-01-04,PRJ-1007,Emp_11,Foreman,8,1,46
+2026-01-26,PRJ-1004,Emp_31,Foreman,8,0,46
+2026-01-21,PRJ-1013,Emp_48,Foreman,8,0,28
+2026-03-01,PRJ-1003,Emp_08,General Laborer,8,1,41
+2026-03-12,PRJ-1013,Emp_05,Plumber,8,0,27
+2026-03-21,PRJ-1003,Emp_49,Plumber,8,0,28
+2026-01-24,PRJ-1001,Emp_44,General Laborer,8,0,43
+2026-01-31,PRJ-1002,Emp_36,Foreman,8,0,41
+2026-03-04,PRJ-1005,Emp_06,General Laborer,8,0,48
+2026-03-17,PRJ-1005,Emp_01,Foreman,8,1,45
+2026-01-31,PRJ-1002,Emp_35,Electrician,8,2,40
+2026-02-14,PRJ-1006,Emp_30,Foreman,8,0,41
+2026-02-24,PRJ-1014,Emp_44,Foreman,8,0,44
+2026-02-16,PRJ-1011,Emp_38,General Laborer,8,6,46
+2026-02-14,PRJ-1005,Emp_41,Foreman,8,0,28
+2026-01-20,PRJ-1010,Emp_07,Plumber,8,1,39
+2026-03-11,PRJ-1011,Emp_31,Electrician,8,6,35
+2026-01-09,PRJ-1004,Emp_40,Heavy Equip Operator,8,6,49
+2026-03-02,PRJ-1002,Emp_21,Heavy Equip Operator,8,6,37
+2026-03-11,PRJ-1012,Emp_15,Electrician,8,0,43
+2026-01-19,PRJ-1013,Emp_41,General Laborer,8,0,50
+2026-03-10,PRJ-1004,Emp_45,Foreman,8,2,44
+2026-02-18,PRJ-1004,Emp_42,General Laborer,8,0,28
+2026-03-11,PRJ-1013,Emp_08,Plumber,8,0,31
+2026-02-08,PRJ-1000,Emp_03,Electrician,8,0,48
+2026-02-26,PRJ-1008,Emp_20,General Laborer,8,0,46
+2026-02-15,PRJ-1011,Emp_08,Electrician,8,0,49
+2026-01-31,PRJ-1008,Emp_16,Heavy Equip Operator,8,4,28
+2026-01-30,PRJ-1009,Emp_09,General Laborer,8,0,54
+2026-01-07,PRJ-1011,Emp_30,Foreman,8,0,38
+2026-01-10,PRJ-1005,Emp_43,Heavy Equip Operator,8,0,34
+2026-03-18,PRJ-1008,Emp_27,Heavy Equip Operator,8,0,37
+2026-02-25,PRJ-1001,Emp_48,Plumber,8,0,50
+2026-02-26,PRJ-1001,Emp_27,Electrician,8,0,25
+2026-01-07,PRJ-1014,Emp_32,Heavy Equip Operator,8,0,42
+2026-02-01,PRJ-1003,Emp_27,Foreman,8,0,48
+2026-01-15,PRJ-1004,Emp_03,Foreman,8,4,34
+2026-01-26,PRJ-1013,Emp_14,General Laborer,8,0,49
+2026-02-06,PRJ-1001,Emp_29,Plumber,8,6,29
+2026-01-03,PRJ-1004,Emp_24,Electrician,8,1,48
+2026-02-18,PRJ-1008,Emp_44,Foreman,8,0,45
+2026-01-12,PRJ-1008,Emp_35,Foreman,8,0,25
+2026-02-19,PRJ-1014,Emp_04,General Laborer,8,1,34
+2026-03-12,PRJ-1000,Emp_18,Plumber,8,0,41
+2026-01-24,PRJ-1001,Emp_08,General Laborer,8,0,52
+2026-02-27,PRJ-1006,Emp_06,Plumber,8,0,46
+2026-02-18,PRJ-1005,Emp_42,Heavy Equip Operator,8,0,38
+2026-03-11,PRJ-1009,Emp_02,Electrician,8,2,45
+2026-01-05,PRJ-1008,Emp_22,Plumber,8,4,26
+2026-03-15,PRJ-1002,Emp_09,Heavy Equip Operator,8,0,53
+2026-02-08,PRJ-1007,Emp_14,Electrician,8,0,39
+2026-02-09,PRJ-1010,Emp_49,Heavy Equip Operator,8,0,34
+2026-03-05,PRJ-1000,Emp_14,Heavy Equip Operator,8,1,31
+2026-01-21,PRJ-1014,Emp_14,Plumber,8,0,28
+2026-01-15,PRJ-1004,Emp_22,Plumber,8,0,39
+2026-01-14,PRJ-1008,Emp_39,Electrician,8,0,32
+2026-02-27,PRJ-1000,Emp_18,Plumber,8,1,26
+2026-01-25,PRJ-1002,Emp_09,Heavy Equip Operator,8,0,32
+2026-02-13,PRJ-1003,Emp_17,Plumber,8,0,27
+2026-01-06,PRJ-1006,Emp_08,Electrician,8,0,49
+2026-02-19,PRJ-1004,Emp_09,Electrician,8,0,43
+2026-01-11,PRJ-1009,Emp_23,Plumber,8,0,32
+2026-01-24,PRJ-1008,Emp_38,Foreman,8,0,28
+2026-03-13,PRJ-1014,Emp_02,Plumber,8,1,39
+2026-02-17,PRJ-1001,Emp_17,Electrician,8,4,34
+2026-03-01,PRJ-1011,Emp_09,General Laborer,8,0,26
+2026-01-07,PRJ-1012,Emp_34,Electrician,8,0,27
+2026-01-27,PRJ-1007,Emp_48,Electrician,8,0,30
+2026-02-02,PRJ-1006,Emp_31,General Laborer,8,0,32
+2026-02-01,PRJ-1010,Emp_50,Foreman,8,0,29
+2026-01-04,PRJ-1013,Emp_33,Heavy Equip Operator,8,1,46
+2026-01-19,PRJ-1011,Emp_07,General Laborer,8,4,35
+2026-02-15,PRJ-1000,Emp_33,Plumber,8,0,37
+2026-01-21,PRJ-1001,Emp_40,Electrician,8,1,28
+2026-01-28,PRJ-1014,Emp_47,Heavy Equip Operator,8,4,51
+2026-01-27,PRJ-1002,Emp_20,General Laborer,8,0,25
+2026-03-09,PRJ-1001,Emp_42,Electrician,8,1,50
+2026-01-05,PRJ-1011,Emp_04,General Laborer,8,6,53
+2026-01-09,PRJ-1001,Emp_26,General Laborer,8,2,30
+2026-03-01,PRJ-1010,Emp_44,Electrician,8,0,26
+2026-02-16,PRJ-1008,Emp_32,General Laborer,8,0,45
+2026-01-03,PRJ-1013,Emp_05,Electrician,8,4,50
+2026-01-21,PRJ-1009,Emp_21,Heavy Equip Operator,8,0,54
+2026-02-02,PRJ-1003,Emp_10,Electrician,8,0,26
+2026-02-10,PRJ-1001,Emp_09,Foreman,8,1,50
+2026-03-16,PRJ-1005,Emp_40,Heavy Equip Operator,8,0,41
+2026-03-10,PRJ-1013,Emp_36,Foreman,8,2,39
+2026-02-04,PRJ-1012,Emp_25,Heavy Equip Operator,8,0,40
+2026-02-03,PRJ-1007,Emp_34,Foreman,8,0,48
+2026-01-28,PRJ-1005,Emp_30,Heavy Equip Operator,8,0,33
+2026-01-20,PRJ-1007,Emp_39,General Laborer,8,0,47
+2026-03-04,PRJ-1009,Emp_07,Electrician,8,0,49
+2026-02-16,PRJ-1014,Emp_42,Heavy Equip Operator,8,0,45
+2026-02-26,PRJ-1013,Emp_47,Plumber,8,0,44
+2026-01-14,PRJ-1000,Emp_28,General Laborer,8,4,31
+2026-01-09,PRJ-1012,Emp_15,General Laborer,8,1,39
+2026-01-06,PRJ-1006,Emp_22,General Laborer,8,0,51
+2026-02-15,PRJ-1003,Emp_26,General Laborer,8,0,45
+2026-03-13,PRJ-1002,Emp_47,Electrician,8,0,54
+2026-03-19,PRJ-1000,Emp_21,General Laborer,8,0,49
+2026-02-09,PRJ-1009,Emp_21,Foreman,8,1,30
+2026-01-22,PRJ-1002,Emp_24,Plumber,8,4,38
+2026-02-20,PRJ-1002,Emp_44,General Laborer,8,2,33
+2026-01-28,PRJ-1006,Emp_05,Electrician,8,0,38
+2026-03-04,PRJ-1011,Emp_06,Electrician,8,0,47
+2026-01-19,PRJ-1013,Emp_28,Electrician,8,4,48
+2026-02-07,PRJ-1003,Emp_48,Foreman,8,0,32
+2026-01-30,PRJ-1000,Emp_09,Heavy Equip Operator,8,0,48
+2026-02-21,PRJ-1010,Emp_04,Heavy Equip Operator,8,0,45
+2026-02-28,PRJ-1008,Emp_36,Heavy Equip Operator,8,1,28
+2026-03-09,PRJ-1001,Emp_22,Electrician,8,4,33
+2026-02-10,PRJ-1014,Emp_27,Foreman,8,6,47
+2026-01-16,PRJ-1000,Emp_43,General Laborer,8,0,40
+2026-01-30,PRJ-1010,Emp_47,Electrician,8,0,38
+2026-02-19,PRJ-1004,Emp_19,Heavy Equip Operator,8,0,29
+2026-02-17,PRJ-1002,Emp_20,Foreman,8,2,36
+2026-02-02,PRJ-1008,Emp_07,Heavy Equip Operator,8,1,53
+2026-01-09,PRJ-1000,Emp_33,Plumber,8,0,26
+2026-03-06,PRJ-1006,Emp_10,General Laborer,8,0,39
+2026-02-09,PRJ-1011,Emp_15,Electrician,8,0,38
+2026-02-16,PRJ-1002,Emp_23,Heavy Equip Operator,8,0,50
+2026-02-21,PRJ-1007,Emp_24,Electrician,8,0,45
+2026-02-20,PRJ-1008,Emp_49,Foreman,8,0,53
+2026-02-20,PRJ-1006,Emp_37,Plumber,8,0,52
+2026-01-28,PRJ-1011,Emp_28,Heavy Equip Operator,8,0,37
+2026-03-08,PRJ-1001,Emp_50,Heavy Equip Operator,8,0,48
+2026-02-03,PRJ-1008,Emp_40,Heavy Equip Operator,8,0,25
+2026-03-13,PRJ-1005,Emp_02,Heavy Equip Operator,8,0,46
+2026-01-25,PRJ-1012,Emp_43,Foreman,8,0,36
+2026-01-06,PRJ-1007,Emp_02,Plumber,8,0,43
+2026-03-06,PRJ-1012,Emp_18,Foreman,8,0,41
+2026-02-09,PRJ-1012,Emp_22,Foreman,8,0,44
+2026-02-25,PRJ-1012,Emp_01,Plumber,8,0,30
+2026-02-18,PRJ-1013,Emp_10,Heavy Equip Operator,8,0,32
+2026-02-12,PRJ-1000,Emp_43,General Laborer,8,2,50
+2026-02-08,PRJ-1000,Emp_05,Plumber,8,2,54
+2026-02-23,PRJ-1008,Emp_48,Electrician,8,4,48
+2026-02-06,PRJ-1000,Emp_06,Heavy Equip Operator,8,0,48
+2026-01-21,PRJ-1006,Emp_14,General Laborer,8,0,47
+2026-02-10,PRJ-1010,Emp_27,General Laborer,8,0,38
+2026-01-19,PRJ-1014,Emp_22,Plumber,8,0,38
+2026-02-14,PRJ-1011,Emp_24,Foreman,8,0,43
+2026-03-17,PRJ-1012,Emp_47,Foreman,8,4,45
+2026-01-12,PRJ-1000,Emp_50,Heavy Equip Operator,8,0,37
+2026-03-10,PRJ-1010,Emp_39,Electrician,8,0,38
+2026-01-30,PRJ-1006,Emp_04,Plumber,8,0,41
+2026-02-16,PRJ-1001,Emp_11,Heavy Equip Operator,8,4,26
+2026-03-09,PRJ-1014,Emp_04,Electrician,8,0,28
+2026-01-19,PRJ-1007,Emp_18,General Laborer,8,0,44
+2026-03-17,PRJ-1014,Emp_43,General Laborer,8,0,33
+2026-02-08,PRJ-1012,Emp_32,Heavy Equip Operator,8,0,33

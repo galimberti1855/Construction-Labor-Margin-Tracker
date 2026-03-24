@@ -1,0 +1,16 @@
+Project_ID,Project_Name,Project_Manager,Budget_Labor,Budget_Materials,Actual_Labor,Actual_Materials,Completion_Pct
+PRJ-1000,Commercial Build - Site 1,Otavio Camara,171958,246867,227905,267356,75.9
+PRJ-1001,Commercial Build - Site 2,Otavio Camara,104886,237337,97333,217049,92.0
+PRJ-1002,Commercial Build - Site 3,Adeel Aslam,66023,141090,56799,161192,89.9
+PRJ-1003,Commercial Build - Site 4,Lisa North,55311,203355,52086,198486,71.5
+PRJ-1004,Commercial Build - Site 5,Lisa North,180608,256730,189625,234052,98.4
+PRJ-1005,Commercial Build - Site 6,Lisa North,115725,229981,143798,218463,70.9
+PRJ-1006,Commercial Build - Site 7,Otavio Camara,81551,373538,104382,399714,67.0
+PRJ-1007,Residential Complex - Phase 1,Otavio Camara,137313,241699,181404,251565,63.1
+PRJ-1008,Residential Complex - Phase 2,Kenneth Delgado,118148,352801,140846,356342,47.3
+PRJ-1009,Residential Complex - Phase 3,Otavio Camara,67159,206530,87619,199238,79.8
+PRJ-1010,Residential Complex - Phase 4,Otavio Camara,69457,308261,66259,321184,41.9
+PRJ-1011,Residential Complex - Phase 5,Otavio Camara,87065,323165,114345,349605,59.6
+PRJ-1012,Residential Complex - Phase 6,Lisa North,90397,357750,100378,407939,90.7
+PRJ-1013,Residential Complex - Phase 7,Lisa North,74300,182798,93942,180821,56.9
+PRJ-1014,Residential Complex - Phase 8,Otavio Camara,189643,336584,189289,316832,40.9
