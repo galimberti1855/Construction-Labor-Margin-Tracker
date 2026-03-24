@@ -60,15 +60,3 @@ They are linked through `Project_ID`.
 2. Open it in Power BI Desktop
 3. Review the executive summary page
 4. Use the project slicer to filter the dashboard
-
-## Repo structure
-
-```bash
-project-ops-dashboard/
-├── README.md
-├── Construction_LaborMargin_Dashboard_v1.pbix
-├── images/
-│   └── construction-labor-margin-dashboard.png
-└── data/
-    ├── construction_labor_logs.csv
-    └── construction_projects_summary.csv
